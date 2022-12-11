@@ -1,2 +1,4 @@
 .idea
 */input*.txt
+*/ENV_DIR
+*/__pycache__
